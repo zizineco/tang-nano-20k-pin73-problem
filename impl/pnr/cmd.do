@@ -1,0 +1,13 @@
+-d C:\Gowin\Gowin_V1.9.9_x64\IDE\bin\Documents\fpga_project\impl\gwsynthesis\fpga_project.vg
+-p GW2AR-18C-QFN88-8
+-pn GW2AR-LV18QN88C8/I7
+-cst C:\Gowin\Gowin_V1.9.9_x64\IDE\bin\Documents\fpga_project\src\fpga_project.cst
+-cfg C:\Gowin\Gowin_V1.9.9_x64\IDE\bin\Documents\fpga_project\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-no_cst_warning
+-correct_hold 1
+-route_maxfan 23
